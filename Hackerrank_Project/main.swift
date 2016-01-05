@@ -8,10 +8,16 @@
 
 import Foundation
 
+
+// day 2
 var arithmetic = Arithmetic()
 arithmetic.enterInfo()
 arithmetic.printTotal()
 
 
+// day 3
+var modulo = Modulo()
+modulo.enterInfo()
 
 
+// day 4

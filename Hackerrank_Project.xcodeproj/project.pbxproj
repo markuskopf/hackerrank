@@ -11,6 +11,7 @@
 		75A966041C3A0A6F00E87C78 /* STDReadWriteHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A966011C3A0A6F00E87C78 /* STDReadWriteHelper.swift */; };
 		75A966051C3A0A6F00E87C78 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A966021C3A0A6F00E87C78 /* Person.swift */; };
 		75A966061C3A0A6F00E87C78 /* Arithmetic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A966031C3A0A6F00E87C78 /* Arithmetic.swift */; };
+		75A966081C3B6C3500E87C78 /* Modulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A966071C3B6C3500E87C78 /* Modulo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		75A966011C3A0A6F00E87C78 /* STDReadWriteHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STDReadWriteHelper.swift; sourceTree = "<group>"; };
 		75A966021C3A0A6F00E87C78 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		75A966031C3A0A6F00E87C78 /* Arithmetic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arithmetic.swift; sourceTree = "<group>"; };
+		75A966071C3B6C3500E87C78 /* Modulo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Modulo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				75A965FA1C3A0A5B00E87C78 /* main.swift */,
+				75A966071C3B6C3500E87C78 /* Modulo.swift */,
 				75A966011C3A0A6F00E87C78 /* STDReadWriteHelper.swift */,
 				75A966021C3A0A6F00E87C78 /* Person.swift */,
 				75A966031C3A0A6F00E87C78 /* Arithmetic.swift */,
@@ -131,6 +134,7 @@
 				75A966051C3A0A6F00E87C78 /* Person.swift in Sources */,
 				75A966061C3A0A6F00E87C78 /* Arithmetic.swift in Sources */,
 				75A965FB1C3A0A5B00E87C78 /* main.swift in Sources */,
+				75A966081C3B6C3500E87C78 /* Modulo.swift in Sources */,
 				75A966041C3A0A6F00E87C78 /* STDReadWriteHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,6 +255,7 @@
 				75A966001C3A0A5B00E87C78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
