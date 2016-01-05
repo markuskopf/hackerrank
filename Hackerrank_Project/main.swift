@@ -21,3 +21,24 @@ modulo.enterInfo()
 
 
 // day 4
+var p = PersonHH(initial_Age: -1)
+p.yearPasses()
+p.yearPasses()
+p.amIOld()
+
+/*
+var T = Int(readLine(stripNewline: true)!)!
+while T-- > 0 {
+    let age = Int(readLine(stripNewline: true)!)!
+    var p = PersonHH (initial_Age: age)
+    p.amIOld()
+    
+    for i in 1 ... 3
+    {
+        p.yearPasses()
+    }
+    
+    p.amIOld()
+    print ("");
+}
+*/
