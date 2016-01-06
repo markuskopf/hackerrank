@@ -26,6 +26,13 @@ p.yearPasses()
 p.yearPasses()
 p.amIOld()
 
+// day 5
+var loops = Loops()
+loops.start()
+
+
+
+
 /*
 var T = Int(readLine(stripNewline: true)!)!
 while T-- > 0 {
