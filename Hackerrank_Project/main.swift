@@ -30,7 +30,9 @@ p.amIOld()
 var loops = Loops()
 loops.start()
 
-
+// day6
+var recursion = Recursion()
+recursion.start()
 
 
 /*
