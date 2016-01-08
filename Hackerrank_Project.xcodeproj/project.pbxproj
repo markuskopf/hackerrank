@@ -15,6 +15,7 @@
 		75A9660A1C3B707500E87C78 /* PersonHH.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A966091C3B707500E87C78 /* PersonHH.swift */; };
 		75A9660C1C3D9D3800E87C78 /* Loops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A9660B1C3D9D3800E87C78 /* Loops.swift */; };
 		75A9660E1C3EE5D400E87C78 /* Recursion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A9660D1C3EE5D400E87C78 /* Recursion.swift */; };
+		75FA38841C3F7B5000F36858 /* Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FA38831C3F7B5000F36858 /* Arrays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		75A966091C3B707500E87C78 /* PersonHH.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonHH.swift; sourceTree = "<group>"; };
 		75A9660B1C3D9D3800E87C78 /* Loops.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Loops.swift; sourceTree = "<group>"; };
 		75A9660D1C3EE5D400E87C78 /* Recursion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recursion.swift; sourceTree = "<group>"; };
+		75FA38831C3F7B5000F36858 /* Arrays.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arrays.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				75A965FA1C3A0A5B00E87C78 /* main.swift */,
+				75FA38831C3F7B5000F36858 /* Arrays.swift */,
 				75A9660D1C3EE5D400E87C78 /* Recursion.swift */,
 				75A966071C3B6C3500E87C78 /* Modulo.swift */,
 				75A966011C3A0A6F00E87C78 /* STDReadWriteHelper.swift */,
@@ -144,6 +147,7 @@
 				75A966061C3A0A6F00E87C78 /* Arithmetic.swift in Sources */,
 				75A9660A1C3B707500E87C78 /* PersonHH.swift in Sources */,
 				75A965FB1C3A0A5B00E87C78 /* main.swift in Sources */,
+				75FA38841C3F7B5000F36858 /* Arrays.swift in Sources */,
 				75A9660E1C3EE5D400E87C78 /* Recursion.swift in Sources */,
 				75A9660C1C3D9D3800E87C78 /* Loops.swift in Sources */,
 				75A966081C3B6C3500E87C78 /* Modulo.swift in Sources */,

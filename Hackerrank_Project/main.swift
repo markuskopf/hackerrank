@@ -35,6 +35,11 @@ var recursion = Recursion()
 recursion.start()
 
 
+// day 7
+var arrays = Arrays()
+arrays.start()
+
+
 /*
 var T = Int(readLine(stripNewline: true)!)!
 while T-- > 0 {
