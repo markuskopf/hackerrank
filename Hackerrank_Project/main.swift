@@ -39,6 +39,10 @@ recursion.start()
 var arrays = Arrays()
 arrays.start()
 
+// day 8
+var dictAndMaps = DictsAndMaps()
+dictAndMaps.start()
+
 
 /*
 var T = Int(readLine(stripNewline: true)!)!
