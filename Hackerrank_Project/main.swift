@@ -43,6 +43,13 @@ arrays.start()
 var dictAndMaps = DictsAndMaps()
 dictAndMaps.start()
 
+// day 9
+// done in Java
+
+// day 10
+var decBinary = DecBinary()
+decBinary.start()
+
 
 /*
 var T = Int(readLine(stripNewline: true)!)!
