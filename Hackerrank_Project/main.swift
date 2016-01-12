@@ -54,6 +54,10 @@ decBinary.start()
 var multiArray = DArray()
 multiArray.start()
 
+// day 12
+var inheritanceStarter = InheritanceStarter()
+inheritanceStarter.start()
+
 
 /*
 var T = Int(readLine(stripNewline: true)!)!

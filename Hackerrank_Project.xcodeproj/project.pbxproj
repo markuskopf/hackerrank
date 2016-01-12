@@ -18,6 +18,9 @@
 		75E0F1AE1C434766001003DD /* DictsAndMaps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1AD1C434766001003DD /* DictsAndMaps.swift */; };
 		75E0F1B01C44926A001003DD /* DecBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1AF1C44926A001003DD /* DecBinary.swift */; };
 		75E0F1B21C449DE3001003DD /* DArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1B11C449DE3001003DD /* DArray.swift */; };
+		75E0F1B41C45B8DB001003DD /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1B31C45B8DB001003DD /* Student.swift */; };
+		75E0F1B61C45B8E2001003DD /* Grade.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1B51C45B8E2001003DD /* Grade.swift */; };
+		75E0F1B81C45BB7D001003DD /* InheritanceStarter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1B71C45BB7D001003DD /* InheritanceStarter.swift */; };
 		75FA38841C3F7B5000F36858 /* Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FA38831C3F7B5000F36858 /* Arrays.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +49,9 @@
 		75E0F1AD1C434766001003DD /* DictsAndMaps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictsAndMaps.swift; sourceTree = "<group>"; };
 		75E0F1AF1C44926A001003DD /* DecBinary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DecBinary.swift; sourceTree = "<group>"; };
 		75E0F1B11C449DE3001003DD /* DArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DArray.swift; sourceTree = "<group>"; };
+		75E0F1B31C45B8DB001003DD /* Student.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		75E0F1B51C45B8E2001003DD /* Grade.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Grade.swift; sourceTree = "<group>"; };
+		75E0F1B71C45BB7D001003DD /* InheritanceStarter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InheritanceStarter.swift; sourceTree = "<group>"; };
 		75FA38831C3F7B5000F36858 /* Arrays.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arrays.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,6 +86,9 @@
 			isa = PBXGroup;
 			children = (
 				75A965FA1C3A0A5B00E87C78 /* main.swift */,
+				75E0F1B71C45BB7D001003DD /* InheritanceStarter.swift */,
+				75E0F1B31C45B8DB001003DD /* Student.swift */,
+				75E0F1B51C45B8E2001003DD /* Grade.swift */,
 				75E0F1B11C449DE3001003DD /* DArray.swift */,
 				75E0F1AF1C44926A001003DD /* DecBinary.swift */,
 				75E0F1AD1C434766001003DD /* DictsAndMaps.swift */,
@@ -159,9 +168,12 @@
 				75E0F1B01C44926A001003DD /* DecBinary.swift in Sources */,
 				75A9660A1C3B707500E87C78 /* PersonHH.swift in Sources */,
 				75A965FB1C3A0A5B00E87C78 /* main.swift in Sources */,
+				75E0F1B41C45B8DB001003DD /* Student.swift in Sources */,
+				75E0F1B81C45BB7D001003DD /* InheritanceStarter.swift in Sources */,
 				75FA38841C3F7B5000F36858 /* Arrays.swift in Sources */,
 				75A9660E1C3EE5D400E87C78 /* Recursion.swift in Sources */,
 				75A9660C1C3D9D3800E87C78 /* Loops.swift in Sources */,
+				75E0F1B61C45B8E2001003DD /* Grade.swift in Sources */,
 				75A966081C3B6C3500E87C78 /* Modulo.swift in Sources */,
 				75A966041C3A0A6F00E87C78 /* STDReadWriteHelper.swift in Sources */,
 			);
