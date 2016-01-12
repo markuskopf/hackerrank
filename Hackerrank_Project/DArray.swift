@@ -38,12 +38,36 @@ class DArray {
     func start() {
         var array = Array<Array<Int>>()
         
-        for _ in 0...5 {
+        for i in 0...5 {
             let lineArray = readLnArrayInt()
-                array.append(lineArray)
+            array.insert(lineArray, atIndex:i)
         }
         
-        print("break")
+        // two loops and field access + counting
+        var score = 0
+        
+        for var i = 0; i < 4; i++  {
+            for var j = 0; j < 4; j++ {
+                let a = array[i][j];
+                let b = array[i][j+1];
+                let c = array[i][j+2]
+                let d = array[i+1][j+1]
+                let e = array[i+2][j]
+                let f = array[i+2][j+1]
+                let g = array[i+2][j+2]
+
+                let sum = a+b+c+d+e+f+g
+                
+                if  i == 0 && j == 0 {
+                    score = sum
+                }
+                
+                if sum > score {
+                    score = sum
+                }
+            }
+        }
+        
+        print("\(score)")
     }
-    
 }
