@@ -17,6 +17,7 @@
 		75A9660E1C3EE5D400E87C78 /* Recursion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A9660D1C3EE5D400E87C78 /* Recursion.swift */; };
 		75E0F1AE1C434766001003DD /* DictsAndMaps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1AD1C434766001003DD /* DictsAndMaps.swift */; };
 		75E0F1B01C44926A001003DD /* DecBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1AF1C44926A001003DD /* DecBinary.swift */; };
+		75E0F1B21C449DE3001003DD /* DArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E0F1B11C449DE3001003DD /* DArray.swift */; };
 		75FA38841C3F7B5000F36858 /* Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FA38831C3F7B5000F36858 /* Arrays.swift */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,7 @@
 		75A9660D1C3EE5D400E87C78 /* Recursion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recursion.swift; sourceTree = "<group>"; };
 		75E0F1AD1C434766001003DD /* DictsAndMaps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictsAndMaps.swift; sourceTree = "<group>"; };
 		75E0F1AF1C44926A001003DD /* DecBinary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DecBinary.swift; sourceTree = "<group>"; };
+		75E0F1B11C449DE3001003DD /* DArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DArray.swift; sourceTree = "<group>"; };
 		75FA38831C3F7B5000F36858 /* Arrays.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arrays.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				75A965FA1C3A0A5B00E87C78 /* main.swift */,
+				75E0F1B11C449DE3001003DD /* DArray.swift */,
 				75E0F1AF1C44926A001003DD /* DecBinary.swift */,
 				75E0F1AD1C434766001003DD /* DictsAndMaps.swift */,
 				75FA38831C3F7B5000F36858 /* Arrays.swift */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				75A966051C3A0A6F00E87C78 /* Person.swift in Sources */,
+				75E0F1B21C449DE3001003DD /* DArray.swift in Sources */,
 				75A966061C3A0A6F00E87C78 /* Arithmetic.swift in Sources */,
 				75E0F1AE1C434766001003DD /* DictsAndMaps.swift in Sources */,
 				75E0F1B01C44926A001003DD /* DecBinary.swift in Sources */,

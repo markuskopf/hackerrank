@@ -50,6 +50,10 @@ dictAndMaps.start()
 var decBinary = DecBinary()
 decBinary.start()
 
+// day 11
+var multiArray = DArray()
+multiArray.start()
+
 
 /*
 var T = Int(readLine(stripNewline: true)!)!
