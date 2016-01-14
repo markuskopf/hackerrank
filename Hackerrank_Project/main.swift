@@ -58,6 +58,10 @@ multiArray.start()
 var inheritanceStarter = InheritanceStarter()
 inheritanceStarter.start()
 
+// day 14
+var differenceStarter = DifferenceStarter()
+differenceStarter.start()
+
 
 /*
 var T = Int(readLine(stripNewline: true)!)!
