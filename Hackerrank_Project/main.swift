@@ -62,6 +62,10 @@ inheritanceStarter.start()
 var differenceStarter = DifferenceStarter()
 differenceStarter.start()
 
+// day15 
+var linkedListStarter = LinkedListStarter()
+linkedListStarter.start()
+
 
 /*
 var T = Int(readLine(stripNewline: true)!)!
