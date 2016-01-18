@@ -66,6 +66,11 @@ differenceStarter.start()
 var linkedListStarter = LinkedListStarter()
 linkedListStarter.start()
 
+// day 16
+var insertionSort = InsertionSort()
+insertionSort.start()
+
+
 
 /*
 var T = Int(readLine(stripNewline: true)!)!
