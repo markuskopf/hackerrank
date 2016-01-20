@@ -28,14 +28,11 @@ class StringSplit {
         
         let separators = NSCharacterSet(charactersInString: " ![,?.\\_'@+]")
         let wordArray = input.componentsSeparatedByCharactersInSet(separators)
-        var processingArray = Array<String>()
 
-        for value in wordArray {
-            if value != "" {
-                processingArray.append(value)
-            }
+        let processingArray = wordArray.filter { (x) -> Bool in
+            !x.isEmpty
         }
-
+        
         print("\(processingArray.count)")
 
         for element in processingArray {
