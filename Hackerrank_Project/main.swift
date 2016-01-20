@@ -74,6 +74,9 @@ insertionSort.start()
 var palinedrome =  Palinedrome()
 palinedrome.start()
 
+// day 20
+var stringSplit = StringSplit()
+stringSplit.start()
 
 /*
 var T = Int(readLine(stripNewline: true)!)!
