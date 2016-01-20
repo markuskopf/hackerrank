@@ -70,6 +70,9 @@ linkedListStarter.start()
 var insertionSort = InsertionSort()
 insertionSort.start()
 
+// day 18
+var palinedrome =  Palinedrome()
+palinedrome.start()
 
 
 /*
