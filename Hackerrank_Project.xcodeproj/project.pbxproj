@@ -13,6 +13,8 @@
 		754D61D21C48165F0056FBCB /* DifferenceStarter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754D61D11C48165F0056FBCB /* DifferenceStarter.swift */; };
 		75542E8F1C4C76B60095A129 /* InsertionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75542E8E1C4C76B60095A129 /* InsertionSort.swift */; };
 		7593E55B1C5003DA003A7BF0 /* StringSplit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7593E55A1C5003DA003A7BF0 /* StringSplit.swift */; };
+		75A620701C5146E2002B5C9D /* Generic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A6206F1C5146E2002B5C9D /* Generic.swift */; };
+		75A620721C514725002B5C9D /* Printer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A620711C514725002B5C9D /* Printer.swift */; };
 		75A965FB1C3A0A5B00E87C78 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A965FA1C3A0A5B00E87C78 /* main.swift */; };
 		75A966041C3A0A6F00E87C78 /* STDReadWriteHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A966011C3A0A6F00E87C78 /* STDReadWriteHelper.swift */; };
 		75A966051C3A0A6F00E87C78 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75A966021C3A0A6F00E87C78 /* Person.swift */; };
@@ -53,6 +55,8 @@
 		754D61D11C48165F0056FBCB /* DifferenceStarter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DifferenceStarter.swift; sourceTree = "<group>"; };
 		75542E8E1C4C76B60095A129 /* InsertionSort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InsertionSort.swift; sourceTree = "<group>"; };
 		7593E55A1C5003DA003A7BF0 /* StringSplit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringSplit.swift; sourceTree = "<group>"; };
+		75A6206F1C5146E2002B5C9D /* Generic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Generic.swift; sourceTree = "<group>"; };
+		75A620711C514725002B5C9D /* Printer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Printer.swift; sourceTree = "<group>"; };
 		75A965F71C3A0A5B00E87C78 /* Hackerrank_Project */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hackerrank_Project; sourceTree = BUILT_PRODUCTS_DIR; };
 		75A965FA1C3A0A5B00E87C78 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		75A966011C3A0A6F00E87C78 /* STDReadWriteHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STDReadWriteHelper.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 			isa = PBXGroup;
 			children = (
 				75A965FA1C3A0A5B00E87C78 /* main.swift */,
+				75A6206F1C5146E2002B5C9D /* Generic.swift */,
+				75A620711C514725002B5C9D /* Printer.swift */,
 				7593E55A1C5003DA003A7BF0 /* StringSplit.swift */,
 				75FB85701C4F3E3F00C6D878 /* Palindrome.swift */,
 				75FB85761C4F511A00C6D878 /* Stack.swift */,
@@ -194,6 +200,7 @@
 				75A966051C3A0A6F00E87C78 /* Person.swift in Sources */,
 				75542E8F1C4C76B60095A129 /* InsertionSort.swift in Sources */,
 				7593E55B1C5003DA003A7BF0 /* StringSplit.swift in Sources */,
+				75A620721C514725002B5C9D /* Printer.swift in Sources */,
 				75FB85731C4F438D00C6D878 /* NodeString.swift in Sources */,
 				75E0F1B21C449DE3001003DD /* DArray.swift in Sources */,
 				75FB85771C4F511A00C6D878 /* Stack.swift in Sources */,
@@ -216,6 +223,7 @@
 				75E0F1B61C45B8E2001003DD /* Grade.swift in Sources */,
 				75A966081C3B6C3500E87C78 /* Modulo.swift in Sources */,
 				75A966041C3A0A6F00E87C78 /* STDReadWriteHelper.swift in Sources */,
+				75A620701C5146E2002B5C9D /* Generic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

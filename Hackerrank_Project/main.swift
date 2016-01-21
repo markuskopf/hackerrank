@@ -78,6 +78,10 @@ palinedrome.start()
 var stringSplit = StringSplit()
 stringSplit.start()
 
+// day21
+var generics = Generic()
+generics.start()
+
 /*
 var T = Int(readLine(stripNewline: true)!)!
 while T-- > 0 {
